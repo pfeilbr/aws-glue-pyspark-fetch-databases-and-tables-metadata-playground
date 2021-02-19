@@ -5,7 +5,7 @@ example AWS Glue pyspark job script that fetches all the catalog databases and t
 see [`main.py`](main.py)
 
 * first method uses [spark sql](https://spark.apache.org/sql/)
-* second method uses [python boto3 Glue client](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/glue.html) to interact with Glue API directly
+* second method uses [python boto3 Glue client](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/glue.html) to interact with [Glue API](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api.html) directly
 
 
 
