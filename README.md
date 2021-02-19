@@ -2,10 +2,12 @@
 
 example AWS Glue pyspark job script that fetches all the catalog databases and tables metadata.
 
+see [`main.py`](main.py)
+
 * first method uses [spark sql](https://spark.apache.org/sql/)
 * second method uses [python boto3 Glue client](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/glue.html) to interact with Glue API directly
 
-see [`main.py`](main.py)
+
 
 ## Notes
 
